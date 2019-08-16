@@ -7,4 +7,4 @@ In this article I'll introduce some most popular 3rd dependencies management in 
 |**Carthage**|Carthage is also popular in iOS development community, it is easy to use and use to adopt (become a Cartahge supported framework), since it will compile dependencies into frameworks so it is tricky to debug dependecies (if you are both  framework and base code provider) and it is easy to get stucked when you perform `carthage update` if the dependencies is too complicated, but we have solutions for above pain points. | [Tricks](/carthage_tricks.md) |
 |**SwiftPackageManager**| SwiftPackageManager is Xcode native supported but it only support framework which wrote in Swift as well as doesn't support iOS projects. ||
 
-Author: [Wayne Hsiao](chronicqazxc@gmail.com)
+Author: [Wayne Hsiao](mailto:chronicqazxc@gmail.com)
