@@ -47,4 +47,4 @@ The key point here is we **MUST** perform `carthage update` with parameter `--ne
 ## Conclusion
 Both of these two solutions are available and working, only you need is to choose which approach is the most fit for your organization/team.
 
-Author: [Wayne Hsiao](chronicqazxc@gmail.com)
+Author: [Wayne Hsiao](mailto:chronicqazxc@gmail.com)
