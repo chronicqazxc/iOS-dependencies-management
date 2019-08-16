@@ -27,14 +27,14 @@ git "https://xxx.business-model-b.git" "2.1.0"
 ```
 2. Prepare two **Cartfiles** for each frameworks which has dependencies.
 For instance BusinessModelA
-## Inside Cartfile (for Demo app)
+### Inside Cartfile (for Demo app)
 *BusinessModelA/Example/Cartfile*
 ```ruby
 git "https://xxx.base-ui.git" "2.1.0"
 git "https://xxx.service.git" "1.1.0"
 git "https://xxx.profile.git" "1.0.0"
 ```
-## Outside Cartfile (for dependent)
+### Outside Cartfile (for dependent)
 *BusinessModelA/Cartfile*
 ```ruby
 git "https://xxx.base-ui.git"
