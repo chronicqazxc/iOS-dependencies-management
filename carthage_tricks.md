@@ -1,4 +1,4 @@
-# Carthage pain point
+# Resolve the pain point of Carthage
 
 ## Complicated dependencies hierarchy
 Imagine you are developing a huge project which has over 50+ dependencies (Despite this is bad for app cold launch speed but we don't discuss in here.) the hierarchy also very deep like the following diagram.
@@ -46,3 +46,5 @@ The key point here is we **MUST** perform `carthage update` with parameter `--ne
 
 ## Conclusion
 Both of these two solutions are available and working, only you need is to choose which approach is the most fit for your organization/team.
+
+Author: [Wayne Hsiao](chronicqazxc@gmail.com)
